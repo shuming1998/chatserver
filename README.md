@@ -6,7 +6,7 @@
 
   (1) 网络模块： muduo 网络库
 
-  (2) 消息序列化/反序列化：Json
+  (2) 消息序列化/反序列化：JSON
 
   (3) 负载均衡：nginx 负载均衡器
 
@@ -69,7 +69,7 @@
 
 **项目依赖**
 
-1. Json (https://github.com/nlohmann/json)
+1. JSON (https://github.com/nlohmann/json)
 
    ```shell
    $ git clone git@github.com:nlohmann/json.git
